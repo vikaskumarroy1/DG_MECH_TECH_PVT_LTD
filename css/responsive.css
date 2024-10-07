@@ -129,3 +129,16 @@
         max-width: 1170px;
     }
 }
+
+@media (max-width:425px){
+    
+.whatsAppLogo img {
+    width: 50px;
+    height: 50px;
+    position: fixed;
+   margin-right: 80px;
+    cursor: pointer;
+    z-index: 1000;
+    margin-bottom: 100px;
+  }
+}
